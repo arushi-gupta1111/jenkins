@@ -8,3 +8,4 @@ alias mv 'mv -i'
 
 set prompt='[%n@%m %c]# '
 
+Dummy text for jenkins
