@@ -1,5 +1,6 @@
 EDITING FOR CHECKING PURPOSE
 AGAIN CHANGING FOR PURPOSE
+HELLO
 # .bashrc
 
 # User specific aliases and functions
