@@ -1,4 +1,5 @@
 EDITING FOR CHECKING PURPOSE
+AGAIN CHANGING FOR PURPOSE
 # .bashrc
 
 # User specific aliases and functions
